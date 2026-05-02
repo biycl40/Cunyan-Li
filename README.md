@@ -38,16 +38,11 @@ I am open to collaboration on GeoAI, spatial analysis, urban perception, street-
 | [GeoIdentity-Sat2Street](https://github.com/ai4city-hkust/GeoIdentity-Sat2Street) | [ISPRS JPRS 2026](https://doi.org/10.1016/j.isprsjprs.2026.03.049) | Generates geographically faithful street-view imagery from satellite imagery. |
 | [BuildingMultiView](https://github.com/ai4city-hkust/buildingmultiview) | [JAG 2026](https://doi.org/10.1016/j.jag.2025.105034) | Extracts 11 multi-scale building characteristics from satellite and street-view imagery. |
 | [BuildingView](https://github.com/Jasper0122/BuildingView) | [SpatialDI 2025 / LNCS](https://doi.org/10.1007/978-981-95-3102-8_1) | Constructs urban building exterior databases from Google Street View and multimodal LLMs. |
-| [StreetviewLLM](https://github.com/Jasper0122/StreetviewLLM) | Under review | Extracts geographic information from street-view imagery with chain-of-thought multimodal reasoning. |
-| [Dasymetric Mapper](https://github.com/Jasper0122/Dasymetric-Mapper) | Urban Informatics 2024 | Generates high-resolution population density layers for fire impact analysis. |
 
 ## Selected Projects
 
 - [AutoApplyClaw](https://autoapplyclaw.com/)  
   AI-powered job application platform that searches jobs, generates tailored resumes and cover letters, and auto-fills applications through a Chrome extension.
-
-- [OfferOpenClaw](https://github.com/Jasper0122/OfferOpenClaw)  
-  Email-triggered AI agent for PhD faculty outreach, research alignment scoring, and personalized cold-email generation.
 
 - [AAG 125th Anniversary Globe](https://aag-125-globe.vercel.app/)  
   Interactive 3D globe visualizing all AAG Annual Meeting locations from 1904 to 2029.

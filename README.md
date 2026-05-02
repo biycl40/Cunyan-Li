@@ -47,7 +47,7 @@ I am open to collaboration on GeoAI, spatial analysis, urban perception, street-
 - [AAG 125th Anniversary Globe](https://aag-125-globe.vercel.app/)  
   Interactive 3D globe visualizing all AAG Annual Meeting locations from 1904 to 2029.
 
-- [Auto-Eco](https://github.com/Jasper0122/Auto-Eco)  
+- [Auto-Eco](https://jasper0122.github.io/auto-eco/)  
   Automated econometrics paper-writing pipeline for literature review, causal identification, empirical analysis, and LaTeX compilation.
 
 ## Toolbox

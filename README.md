@@ -68,14 +68,12 @@ I am open to collaboration on GeoAI, spatial analysis, urban perception, street-
 
 `Python` | `PyTorch` | `GeoPandas` | `Shapely` | `Rasterio` | `PostGIS` | `Google Earth Engine` | `OpenStreetMap` | `Mapbox` | `ArcGIS Pro` | `QGIS` | `React` | `FastAPI` | `Three.js` | `LLM Agents`
 
-## GitHub Snapshot
+## Open-Source Focus
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jasper0122&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Jasper0122 GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasper0122&layout=compact&hide_border=true&langs_count=8" alt="Jasper0122 top languages" />
-
-</div>
+- Research code for GeoAI, street-view intelligence, remote sensing, and urban analytics
+- Reproducible workflows for paper-backed projects
+- Applied AI tools for research automation and job-search automation
+- Interactive geospatial visualization with web maps, dashboards, and 3D globes
 
 ## Links
 

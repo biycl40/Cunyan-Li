@@ -55,30 +55,6 @@ I am open to collaboration on GeoAI, spatial analysis, urban perception, street-
 - [Auto-Eco](https://github.com/Jasper0122/Auto-Eco)  
   Automated econometrics paper-writing pipeline for literature review, causal identification, empirical analysis, and LaTeX compilation.
 
-## Recent Updates
-
-- **Apr 2026**: Launched the AAG 125th Anniversary interactive 3D globe.
-- **Apr 2026**: Received the Doctoral Student Professional Development Award.
-- **Mar 2026**: Launched AutoApplyClaw.
-- **Mar 2026**: Released OfferOpenClaw.
-- **Feb 2026**: Received the AAG International Geographic Information Fund and AAG AGSG Annual Meeting Award.
-- **2025**: Started Ph.D. study in Geographic Information Systems at Texas A&M University.
-
 ## Toolbox
 
 `Python` | `PyTorch` | `GeoPandas` | `Shapely` | `Rasterio` | `PostGIS` | `Google Earth Engine` | `OpenStreetMap` | `Mapbox` | `ArcGIS Pro` | `QGIS` | `React` | `FastAPI` | `Three.js` | `LLM Agents`
-
-## Open-Source Focus
-
-- Research code for GeoAI, street-view intelligence, remote sensing, and urban analytics
-- Reproducible workflows for paper-backed projects
-- Applied AI tools for research automation and job-search automation
-- Interactive geospatial visualization with web maps, dashboards, and 3D globes
-
-## Links
-
-- Homepage: [jasper0122.github.io](https://jasper0122.github.io/)
-- CV: [Curriculum Vitae](https://jasper0122.github.io/assets/CV/cv.pdf)
-- Email: [zongrong@tamu.edu](mailto:zongrong@tamu.edu)
-- LinkedIn: [Zongrong (Jasper) Li](https://www.linkedin.com/in/zongrong-jasper-li-61457b287)
-- ORCID: [0009-0008-0933-6439](https://orcid.org/0009-0008-0933-6439)

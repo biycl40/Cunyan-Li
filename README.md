@@ -2,7 +2,7 @@
 
 # Cunyan Li
 
-### GeoAI | Urban Science | 3D Urban Space | Street View & Remote Sensing
+### High energy physics | Particle trajectory fitting | GCN Model | Application of python in physics
 
 [![Homepage](https://img.shields.io/badge/Homepage-jasper0122.github.io-2f80ed)](https://jasper0122.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Zongrong%20Li-4285F4)](https://scholar.google.com/citations?user=XbCCGC4AAAAJ)
